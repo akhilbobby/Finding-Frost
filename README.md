@@ -13,12 +13,14 @@ Things to work upon:
 1. A scoring system for how well the words were collected based on the actual poem.
 2. Levels to progressively increase complexity.
 
-The current game has only a single level based on a poem by Robert Frost - The Road Not Taken.
-Two roads diverged in a yellow wood,
-And sorry I could not travel both
-And be one traveler, long I stood
-And looked down one as far as I could
-To where it bent in the undergrowth;
+The current game has only a single level based on a poem by Robert Frost - The Road Not Taken.  
+
+Two roads diverged in a yellow wood,  
+And sorry I could not travel both  
+And be one traveler, long I stood  
+And looked down one as far as I could  
+To where it bent in the undergrowth;  
+
 <img width="960" alt="Screenshot 2023-07-31 093704" src="https://github.com/akhilbobby/Finding-Frost/assets/41664365/66dc8f9e-4c41-49ae-b96e-a224c1f9811b">
 
 
